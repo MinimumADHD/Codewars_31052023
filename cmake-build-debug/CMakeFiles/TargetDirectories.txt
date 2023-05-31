@@ -1,0 +1,3 @@
+/home/delta/CLionProjects/Codewars 31052023/cmake-build-debug/CMakeFiles/Codewars_31052023.dir
+/home/delta/CLionProjects/Codewars 31052023/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/delta/CLionProjects/Codewars 31052023/cmake-build-debug/CMakeFiles/rebuild_cache.dir
